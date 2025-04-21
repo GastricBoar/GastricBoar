@@ -1,7 +1,9 @@
 <h1>Hi, I'm Daniele!
 
 <h2>👨‍💻 My pet projects:</h2>
-- [Active Directory Home Lab](https://github.com/GastricBoar/ActiveDirectoryHomeLab) 
+
+- [Active Directory home lab](https://github.com/GastricBoar/ActiveDirectoryHomeLab)
+
 <br>
 <h2> 🤳 Connect with me:</h2>
 
