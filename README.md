@@ -1,9 +1,9 @@
 <h1>Hi, I'm Daniele :)</h1>
-This is what i enjoy tinkering with, it's really funny to do so.
+This is what i enjoy tinkering with and it's been real fun to do so.
 
-<h2>🌱 My pet projects:</h2>
+<h2>🌱 Some projects:</h2>
 
-- [Active Directory home lab (DNS, DHCP, Domain Controller setup and some more)](https://github.com/GastricBoar/ActiveDirectoryHomeLab)
+- [Active Directory infrastructure simulation (DNS, DHCP, Domain Controller setup and some more)](https://github.com/GastricBoar/ActiveDirectoryHomeLab)
 
 <br>
 <h2>📫 Find me elsewhere:</h2>
