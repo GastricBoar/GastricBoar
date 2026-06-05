@@ -1,12 +1,12 @@
 <h1>Hi, I'm Daniele :)</h1>
-This is what i am currently working on to up my mad skills.
+This is what i enjoy tinkering with, it's really funny to do so.
 
 <h2>🌱 My pet projects:</h2>
 
 - [Active Directory home lab (DNS, DHCP, Domain Controller setup and some more)](https://github.com/GastricBoar/ActiveDirectoryHomeLab)
 
 <br>
-<h2>📫 Connect with me:</h2>
+<h2>📫 Find me elsewhere:</h2>
 
 [<img align="left" alt="Daniele Ocello | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
