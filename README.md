@@ -5,7 +5,7 @@ This is what i enjoy tinkering with and it's been real fun to do so.
 
 - [My home server setup and self-hosted services](https://github.com/GastricBoar/MyHomelab)
   
-- [Active Directory infrastructure simulation (DNS, DHCP, Domain Controller setup and some more)](https://github.com/GastricBoar/ActiveDirectorySimulation)
+- [Active Directory infrastructure simulation](https://github.com/GastricBoar/ActiveDirectorySimulation)
 
 <br>
 <h2>📫 Find me elsewhere:</h2>
